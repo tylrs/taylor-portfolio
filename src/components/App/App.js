@@ -13,7 +13,7 @@ const App = () => {
                     <button className='Contact'>Contact</button>
                 </nav>
             </header>
-            <section>
+            <section className='primary-content-container'>
                 <article className='intro'>
                     <section className='intro-left'>
                         <h1>Taylor Galloway</h1>
