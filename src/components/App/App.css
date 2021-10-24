@@ -16,6 +16,20 @@ nav {
     justify-content: space-between;
 }
 
+.header-title-container {
+    align-items: center;
+    background-color: black;
+    border-radius: 13px;
+    width: 44%;
+}
+
+.header-title {
+    align-items: center;
+    color: white;
+    margin: 1vh;
+    text-align: center;
+}
+
 .primary-content-container {
     height: 90vh;
 }
