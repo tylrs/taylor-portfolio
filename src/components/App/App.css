@@ -1,7 +1,12 @@
+main {
+    height: 100vh;
+}
+
 .header-container {
     align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    height: 10vh;
     padding-left: 3%;
     padding-right: 3%;
 }
@@ -9,4 +14,8 @@
 nav {
     display: flex;
     justify-content: space-between;
+}
+
+.primary-content-container {
+    height: 90vh;
 }
