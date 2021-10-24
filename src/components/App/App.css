@@ -71,3 +71,17 @@ h1 {
     height: 3rem;
     width: 9rem;
 }
+
+.socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.socials > .fa-lg {
+    font-size: 2.5em;
+}
+
+.socials > .svg-inline--fa.fa-w-14 {
+    width: 4em;
+}
