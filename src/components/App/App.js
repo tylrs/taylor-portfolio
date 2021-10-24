@@ -25,7 +25,7 @@ const App = () => {
                             <button className='contact-me-button'>Contact Me</button>
                         </div>
                         <div className='socials'>
-
+                            
                         </div>
                     </section>
                     <section className='intro-right'>
