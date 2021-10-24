@@ -1,4 +1,6 @@
 import './App.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const App = () => {
 
@@ -25,7 +27,8 @@ const App = () => {
                             <button className='contact-me-button'>Contact Me</button>
                         </div>
                         <div className='socials'>
-                            
+                            <FontAwesomeIcon icon={faGithub} size='lg'/>
+                            <FontAwesomeIcon icon={faLinkedin} size='lg'/>
                         </div>
                     </section>
                     <section className='intro-right'>
