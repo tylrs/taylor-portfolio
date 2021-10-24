@@ -19,3 +19,12 @@ nav {
 .primary-content-container {
     height: 90vh;
 }
+
+.intro {
+    align-items: center;
+    display: flex;
+    height: 90vh;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+}
