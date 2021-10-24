@@ -16,6 +16,12 @@ nav {
     justify-content: space-between;
 }
 
+nav > button {
+    background-color: transparent;
+    border: 0;
+    font-size: 1.2rem;
+}
+
 .header-title-container {
     align-items: center;
     background-color: black;
