@@ -5,7 +5,9 @@ const App = () => {
     return (
         <main>
             <header className='header-container'>
-                <h3 className='header-title'>Taylor Galloway</h3>
+                <div className='header-title-container'>
+                    <h3 className='header-title'>Taylor Galloway</h3>
+                </div>
                 <nav>
                     <button className='About'>About</button>
                     <button className='Skills'>Skills</button>
