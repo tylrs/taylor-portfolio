@@ -4,13 +4,13 @@ const App = () => {
 
     return (
         <main>
-            <header>
-                <h3>Taylor Galloway</h3>
+            <header className='header-container'>
+                <h3 className='header-title'>Taylor Galloway</h3>
                 <nav>
-                    <button>About</button>
-                    <button>Skills</button>
-                    <button>Projects</button>
-                    <button>Contact</button>
+                    <button className='About'>About</button>
+                    <button className='Skills'>Skills</button>
+                    <button className='Projects'>Projects</button>
+                    <button className='Contact'>Contact</button>
                 </nav>
             </header>
             <section>
