@@ -19,7 +19,7 @@ const App = () => {
                 <article className='intro'>
                     <section className='intro-left'>
                         <h1>Taylor Galloway</h1>
-                        <h2>Front-End Developer</h2>
+                        <h2 className='intro-subtitle'>Front-End Developer</h2>
                         <div className='intro-button-container'>
                             <button className='resume-button'>Resumé</button>
                             <button className='contact-me-button'>Contact Me</button>
