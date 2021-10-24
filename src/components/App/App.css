@@ -48,3 +48,8 @@ nav > button {
     padding-left: 10%;
     padding-right: 10%;
 }
+
+h1 {
+    color: #2D9BF1;
+    font-size: 4rem;
+}
