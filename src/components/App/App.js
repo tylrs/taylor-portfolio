@@ -35,6 +35,11 @@ const App = () => {
                         <p>Something fun</p>
                     </section>
                 </article>
+                <article>
+                    <h2>About</h2>
+                    <img />
+                    <p></p>
+                </article>
             </section>
         </main>
     )
