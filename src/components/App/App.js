@@ -36,10 +36,10 @@ const App = () => {
                         <p>Something fun</p>
                     </section>
                 </article>
-                <article>
-                    <h2>About</h2>
-                    <img src={headshot} alt='taylor galloway headshot'/>
-                    <p></p>
+                <article className='about'>
+                    <h2 className='about-subtitle'>About</h2>
+                    <img className='headshot' src={headshot} alt='taylor galloway headshot'/>
+                    <p className='about-description'></p>
                 </article>
             </section>
         </main>
