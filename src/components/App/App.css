@@ -85,3 +85,8 @@ h1 {
 .socials > .svg-inline--fa.fa-w-14 {
     width: 4em;
 }
+
+.headshot {
+    height: 20vh;
+    width: 20vw;
+}
